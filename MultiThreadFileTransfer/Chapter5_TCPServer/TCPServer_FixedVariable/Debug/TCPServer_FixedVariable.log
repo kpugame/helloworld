@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(148): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(204): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(184): warning C4101: 'len': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(189): warning C4101: 'buflen': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(186): warning C4101: 'FileName': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(183): warning C4101: 'buf': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(187): warning C4101: 'file': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(184): warning C4101: 'FileSize': unreferenced local variable
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpserver\tcpserver_fixedvariable\main.cpp(185): warning C4101: 'FileNameLen': unreferenced local variable
+  TCPServer_FixedVariable.vcxproj -> C:\Users\Nam Taeho\Desktop\Network과제\MultiThread_FileTransfer\Chapter5_TCPServer\Debug\TCPServer_FixedVariable.exe

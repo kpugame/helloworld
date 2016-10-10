@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(65): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nam taeho\desktop\network과제\multithread_filetransfer\chapter5_tcpclient\tcpclient_fixedvariable\main.cpp(77): warning C4101: 'len': unreferenced local variable
+  TCPClient_FixedVariable.vcxproj -> C:\Users\Nam Taeho\Desktop\Network과제\MultiThread_FileTransfer\Chapter5_TCPClient\Debug\TCPClient_FixedVariable.exe

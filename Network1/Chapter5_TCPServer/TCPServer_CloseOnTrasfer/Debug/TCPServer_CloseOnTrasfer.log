@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\nam taeho\desktop\visual studio 2015\chapter5_tcpserver\tcpserver_closeontrasfer\main.cpp(99): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\visual studio 2015\chapter5_tcpserver\tcpserver_closeontrasfer\main.cpp(114): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+c:\users\nam taeho\desktop\visual studio 2015\chapter5_tcpserver\tcpserver_closeontrasfer\main.cpp(121): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: see declaration of 'inet_ntoa'
+  TCPServer_CloseOnTrasfer.vcxproj -> C:\Users\Nam Taeho\Desktop\Visual Studio 2015\Chapter5_TCPServer\Debug\TCPServer_CloseOnTrasfer.exe
